@@ -1,0 +1,15 @@
+//
+//  MineModel.m
+//  GifPlayGround
+//
+//  Created by vito7zhang on 16/1/12.
+//  Copyright © 2016年 vito7zhang. All rights reserved.
+//
+
+#import "MineModel.h"
+
+@implementation MineModel
+
+
+
+@end
